@@ -1,9 +1,7 @@
-favicon: null
 name: philipcornett
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.8984962
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.7395274
-  brandStrength: 0.2057685144245625
-  lightness: 0.5494092
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 1
-typography_spectrum: 0.8984962
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#5f5345'
+    - '#ab9f85'
+    - '#72feff'
+    - '#2d0e06'
+  brandStrength: 0.6875
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
